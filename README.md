@@ -1,7 +1,7 @@
 # Kodluyoruzilkrepo
  Bu repo GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
 
-![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![github](blob:https://gemini.google.com/0f4affdf-27ff-40f9-a8d6-740045cea75b)
 
 ## Installation
 Öncelikle projeyi clonelayın.
